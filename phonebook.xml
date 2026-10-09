@@ -204,8 +204,8 @@
 	</Contact>
 	<Contact>
 		<id>423555</id>
-		<FirstName>STC8F 1</FirstName>
-		<LastName>STC8F 1</LastName>
+		<FirstName>touhoku4</FirstName>
+		<LastName>東北支社4</LastName>
 		<Frequent>0</Frequent>
 		<Phone type="Work">
 			<phonenumber>822</phonenumber>
@@ -288,8 +288,8 @@
 	</Contact>
 	<Contact>
 		<id>423562</id>
-		<FirstName>abetakashi</FirstName>
-		<LastName>阿部（孝）</LastName>
+		<FirstName>touhoku1</FirstName>
+		<LastName>東北支社1</LastName>
 		<Frequent>0</Frequent>
 		<Phone type="Work">
 			<phonenumber>813</phonenumber>
@@ -2508,8 +2508,8 @@
 	</Contact>
 	<Contact>
 		<id>423746</id>
-		<FirstName>stc7f1</FirstName>
-		<LastName>STC7F1</LastName>
+		<FirstName>touhoku2</FirstName>
+		<LastName>東北支社2</LastName>
 		<Frequent>0</Frequent>
 		<Phone type="Work">
 			<phonenumber>814</phonenumber>
@@ -2520,8 +2520,8 @@
 	</Contact>
 	<Contact>
 		<id>423747</id>
-		<FirstName>stc7f2</FirstName>
-		<LastName>STC7F2</LastName>
+		<FirstName>touhoku3</FirstName>
+		<LastName>東北支社3</LastName>
 		<Frequent>0</Frequent>
 		<Phone type="Work">
 			<phonenumber>815</phonenumber>
